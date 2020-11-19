@@ -17,3 +17,5 @@ https://ghost.org/ focus on publishing
 https://github.com/agentejo/cockpit Based on PHP
 
 https://github.com/Squidex/squidex Based on C# and MongoDB
+
+https://github.com/daptin/daptin one-man-show
