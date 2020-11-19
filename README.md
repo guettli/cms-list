@@ -18,6 +18,8 @@ https://directus.io/
 
 Focus on SQL :-)
 
+PHP, MySQL, Vue.
+
 # Not suitable
 
 https://github.com/agentejo/cockpit Based on PHP
