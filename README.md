@@ -16,6 +16,7 @@ https://ghost.org/ focus on publishing
 
 https://directus.io/ 
 
+Focus on SQL :-)
 
 # Not suitable
 
