@@ -12,6 +12,11 @@ https://strapi.io/ focus on API
 
 https://ghost.org/ focus on publishing
 
+# Directus
+
+https://directus.io/ 
+
+
 # Not suitable
 
 https://github.com/agentejo/cockpit Based on PHP
