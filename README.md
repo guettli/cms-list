@@ -66,6 +66,8 @@ Language: Python
 
 I like that it is rewrite from scratch. He started FeinCMS in 2009, and started FeinCMS3 in 2016. 
 
+But ... one-man-show. Almost all commits are from one person.
+
 # Not suitable
 
 Wordpress. Too bloated.
