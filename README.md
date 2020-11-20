@@ -40,6 +40,12 @@ https://www.django-cms.org/
 
 Language: Python
 
+# Wagtail
+
+https://wagtail.io/
+
+Language: Python
+
 # Not suitable
 
 Wordpress. Too bloated.
