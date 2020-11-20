@@ -58,6 +58,14 @@ Language: Python
 
 Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app.
 
+# FeinCMS3
+
+https://github.com/matthiask/feincms3
+
+Language: Python
+
+I like that it is rewrite from scratch. He started FeinCMS in 2009, and started FeinCMS3 in 2016. 
+
 # Not suitable
 
 Wordpress. Too bloated.
