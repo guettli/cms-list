@@ -50,6 +50,14 @@ Language: Python
 
 Development still active: https://github.com/wagtail/wagtail/graphs/contributors
 
+# Lektor
+
+https://github.com/lektor/lektor
+
+Language: Python
+
+Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app.
+
 # Not suitable
 
 Wordpress. Too bloated.
