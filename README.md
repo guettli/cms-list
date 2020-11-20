@@ -40,11 +40,15 @@ https://www.django-cms.org/
 
 Language: Python
 
+Development has declined: https://github.com/django-cms/django-cms/graphs/contributors
+
 # Wagtail
 
 https://wagtail.io/
 
 Language: Python
+
+Development still active: https://github.com/wagtail/wagtail/graphs/contributors
 
 # Not suitable
 
